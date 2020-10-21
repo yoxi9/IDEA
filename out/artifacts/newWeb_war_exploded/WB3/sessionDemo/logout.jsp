@@ -16,7 +16,7 @@
     response.sendRedirect("login.jsp");
 
 %>
-<h3>如果没有跳转到首页，请点击<a href="login.jsp" 这里></a></h3>
+<h3>如果没有跳转到首页，请点击<a href="login.jsp" >这里</a></h3>
 
 </body>
 </html>

@@ -20,7 +20,7 @@
     <br>
     <input type="submit" value="提交">
 
-<jsp:forward page="requestDemo03.jsp"></jsp:forward>
+<%--<jsp:forward page="requestDemo03.jsp"></jsp:forward>--%>
 
 </form>
 

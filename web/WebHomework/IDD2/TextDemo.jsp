@@ -9,12 +9,22 @@
 <html>
 <head>
     <title>正文</title>
+    <style>
+        div#text{
+            position: absolute;
+            top: 150px;
+            left: 550px;
+        }
+
+
+    </style>
 </head>
 <body>
+
 <div id="text" align="center">
-    <img src="img/百度logo.JPG">
+    <img src="img/百度logo.JPG" >
     <br>
-    <input type="text" name="search" size="60">
+    <input type="text" name="search" size="60" >
     <button>百度一下</button>
 
 </div>
